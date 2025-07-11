@@ -5,8 +5,7 @@ This is a full-stack e-commerce prototype built with **React** (frontend) and **
 ## 🧩 Tech Stack
 - **Frontend:** React (Create React App + Tailwind )
 - **Backend:** Node.js, Express.js
-- **API Integration:** RajaOngkir (Shipping cost), Fontee (Payment gateway)
-- 
+
 ## 💡 Features
 - Product listing with category support
 - Shopping cart & checkout flow
